@@ -1,7 +1,9 @@
+
 ## 👋 Hi, I’m @BLANKatGITHUB</hr>
 Hello my name is **Aaishwarya Mishra**, a passionate computer science student from India.<br>
 Currently pursuing my undergraduate degree, I’m on a mission to learn, create, and contribute to the tech community.<br>
 
+[![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 - 👀 I’m interested in Ai and ui/ux.
 - 🌱 I’m currently learning javascript and react.
