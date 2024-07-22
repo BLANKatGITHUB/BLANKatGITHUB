@@ -6,7 +6,7 @@ Currently pursuing my undergraduate degree, I’m on a mission to learn, create,
 
 - 👀 I’m interested in Ai and ui/ux.
 - 🌱 I’m currently learning javascript and react.
-- 📫 How to reach me on linkedin.
+- 📫 you can reach me on linkedin.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I also have certifications from github 
      1. [Github Foundations](https://www.credly.com/badges/69c5bf72-f8ca-4ffb-b4a4-e3e2325cc5a3/public_url).
